@@ -1,5 +1,7 @@
 ## AI Powerd Waste Rcognition and management application
 
+<img width="1903" height="992" alt="Home" src="https://github.com/user-attachments/assets/5ee5fe92-6501-4f48-9de3-d7a1a4dc21e7" />
+
 ECOZEN is a Next.js application that helps communities report and collect waste, verify submissions with AI, and reward contributions with points. Users can:
 
 - Report waste with photo verification
